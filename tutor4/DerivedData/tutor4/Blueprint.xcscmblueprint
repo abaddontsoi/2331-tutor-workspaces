@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5AD3F8B7C01F191A9FD6DD64BEAE20925DE9E356",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5AD3F8B7C01F191A9FD6DD64BEAE20925DE9E356" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B74AA394-F371-4176-8352-2802CAC49D04",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5AD3F8B7C01F191A9FD6DD64BEAE20925DE9E356" : "cityu-class-pack\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "tutor4",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "sem2\/2331\/tutor\/week4\/tutor4\/tutor4.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:abaddontsoi\/cityu-class-pack.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5AD3F8B7C01F191A9FD6DD64BEAE20925DE9E356"
+    }
+  ]
+}

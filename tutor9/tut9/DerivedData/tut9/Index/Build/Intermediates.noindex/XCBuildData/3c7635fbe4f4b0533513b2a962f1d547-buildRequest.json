@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "8ae3e7a799f9a15c92b08a88be1acebb4b7a63a29189a6fb148dbdd7adc4f629"
+    }
+  ],
+  "containerPath" : "/Users/abaddon/2331_tutor_workspace/tutor9/tut9/tut9.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/abaddon/2331_tutor_workspace/tutor9/tut9/DerivedData/tut9/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/abaddon/2331_tutor_workspace/tutor9/tut9/DerivedData/tut9/Index/Build/Products",
+      "derivedDataPath" : "/Users/abaddon/2331_tutor_workspace/tutor9/tut9/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/abaddon/2331_tutor_workspace/tutor9/tut9/DerivedData/tut9/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/abaddon/2331_tutor_workspace/tutor9/tut9/DerivedData/tut9/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/abaddon/2331_tutor_workspace/tutor9/tut9/DerivedData/tut9/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/abaddon/2331_tutor_workspace/tutor9/tut9/DerivedData/tut9/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

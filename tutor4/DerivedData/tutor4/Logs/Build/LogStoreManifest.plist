@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>9EC7AC57-612C-48EA-BA4C-865DB5EF3DF5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9EC7AC57-612C-48EA-BA4C-865DB5EF3DF5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>tutor4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>tutor4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build tutor4</string>
+			<key>timeStartedRecording</key>
+			<real>697615660.94421101</real>
+			<key>timeStoppedRecording</key>
+			<real>697615661.00831902</real>
+			<key>title</key>
+			<string>Build tutor4</string>
+			<key>uniqueIdentifier</key>
+			<string>9EC7AC57-612C-48EA-BA4C-865DB5EF3DF5</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
