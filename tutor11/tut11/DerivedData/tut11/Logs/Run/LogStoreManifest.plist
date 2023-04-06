@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3F8DEF49-16EB-4B45-A234-0DB5E6196550</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3F8DEF49-16EB-4B45-A234-0DB5E6196550.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>tut11 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>tut11</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run tut11</string>
+			<key>timeStartedRecording</key>
+			<real>701850131.09469903</real>
+			<key>timeStoppedRecording</key>
+			<real>701850371.85848606</real>
+			<key>title</key>
+			<string>Run tut11</string>
+			<key>uniqueIdentifier</key>
+			<string>3F8DEF49-16EB-4B45-A234-0DB5E6196550</string>
+		</dict>
+		<key>5FBE4C2D-F119-4774-B6BA-C11E4DC03911</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5FBE4C2D-F119-4774-B6BA-C11E4DC03911.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>tut11 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>tut11</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run tut11</string>
+			<key>timeStartedRecording</key>
+			<real>701849897.17568398</real>
+			<key>timeStoppedRecording</key>
+			<real>701849984.389691</real>
+			<key>title</key>
+			<string>Run tut11</string>
+			<key>uniqueIdentifier</key>
+			<string>5FBE4C2D-F119-4774-B6BA-C11E4DC03911</string>
+		</dict>
+		<key>A0EDA1AA-F738-4865-B137-79887B7E459F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A0EDA1AA-F738-4865-B137-79887B7E459F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>tut11 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>tut11</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run tut11</string>
+			<key>timeStartedRecording</key>
+			<real>701850453.21116602</real>
+			<key>timeStoppedRecording</key>
+			<real>701850463.19942296</real>
+			<key>title</key>
+			<string>Run tut11</string>
+			<key>uniqueIdentifier</key>
+			<string>A0EDA1AA-F738-4865-B137-79887B7E459F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

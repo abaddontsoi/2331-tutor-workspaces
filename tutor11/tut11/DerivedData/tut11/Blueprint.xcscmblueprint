@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BE6ECFC31BCAED4277EF59B9CA7A655D3822A882",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BE6ECFC31BCAED4277EF59B9CA7A655D3822A882" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "26B05978-44BA-4C0C-9BBD-B31B5F68E02B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BE6ECFC31BCAED4277EF59B9CA7A655D3822A882" : "2331_tutor_workspace\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "tut11",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "tutor11\/tut11\/tut11.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:abaddontsoi\/2331-tutor-workspaces.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BE6ECFC31BCAED4277EF59B9CA7A655D3822A882"
+    }
+  ]
+}
