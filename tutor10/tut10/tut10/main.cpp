@@ -20,60 +20,32 @@ void Heap_insert(vector<int> &H, int x, int size) {
 
 // if it is used to heapify a completely random array or (or an array that just added an element), starts from the smallest subtree.
 // if it is used to heapify a heap that just removed an element, starts from the root.
-void Heapify(vector<int> &H, int i) {
-    int l = 2*i;
-    int r = 2*i + 1;
-    int largest = i;
-    if (l < H.size() && H[l]>H[largest]) {
-        largest = l;
-    }
-    if (r < H.size() && H[r]>H[largest]) {
-        largest = r;
-    }
-
-    if (largest!=i) {
-        // swap h[i], h[largest]
-        int temp = H[i];
-        H[i] = H[largest];
-        H[largest] = temp;
-
-        Heapify(H, largest);
-    }
-}
-
-void HeapifyS(vector<int> &H, int shift, int i){
-    int l = 2*(i-shift)+shift;
-    int r = 2*(i-shift)+shift + 1;
-    int largest = i;
-    if (l < H.size() && H[l]>H[largest]) {
-        largest = l;
-    }
-    if (r < H.size() && H[r]>H[largest]) {
-        largest = r;
-    }
-
-    if (largest!=i) {
-        // swap h[i], h[largest]
-        int temp = H[i];
-        H[i] = H[largest];
-        H[largest] = temp;
-
-        HeapifyS(H, shift, largest);
+void Heapify(vector<int> &H, int posi) {
+    int size = (int)H.size();
+    int base_point = posi;
+    for (int i = 0; i<(size-1-base_point)/2; i++) {
+        int max_index = base_point+i;
+        if (base_point+2*i+1<size && H[base_point+2*i+1]>H[max_index]) {
+            max_index = base_point+2*i+1;
+        }
+        if (base_point+2*i+2<size && H[base_point+2*i+2]>H[max_index]) {
+            max_index = base_point+2*i+2;
+        }
+        int temp = H[base_point+i];
+        H[base_point+i] = H[base_point+max_index];
+        H[base_point+max_index] = temp;
     }
 }
 
 void printV(vector<int> h){
-    for (int k=1; k<h.size(); k++)
-        cout<<h[k]<<" ";
+    for(int i: h){
+        cout << i << " ";
+    }
     cout<<endl;
 }
 
-void Heapsort(vector<int> &H, int N) {
-    for (int j = 0; j<N; j++) {
-        for (int i = H.size(); i > j; i--) {
-            HeapifyS(H, j, i);
-        }
-    }
+void Heapsort(vector<int> &H) {
+
 }
 
 
@@ -106,7 +78,7 @@ int main()
 
     // TODO: build a heap for dataArray using heapify
     for (int i = size; i > 0; i--) {
-        HeapifyS(dataArray, 0, i);
+        Heapify(dataArray, 0, i);
     }
 
 
